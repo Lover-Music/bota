@@ -51,6 +51,7 @@ Fallen Music is a Telegram Bot project that allows you to play music on Telegram
 - `/resume` - resume song play
 - `/skip` - play next song
 - `/end` - stop music play
+- `/vplay` - to play video song
 </details>
 
 ### 🧪 Get `SESSION_NAME` variable:
@@ -85,13 +86,13 @@ python3 main.py # Run the bot
 ```
 
 ### ᴄʀᴇᴅɪᴛs 💖
-- [HARSH](https://github.com/harshparmar0): Developer
+- [SARKAR](https://github.com/SARKAR2xMusic): Developer
 - [TBH Music Bot](https://telegram.me/TBH_MUSIC_BOT): Test Bot
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 ### Support & Developer 🎑
-<a href="https://telegram.me/SCHOOL_WALLI_MASTII"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/YAARI_APNI_APNI"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 <a href="https://telegram.me/anonymous_was_bot"><img src="https://img.shields.io/badge/%20Developer-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 ------------------------------------------------
